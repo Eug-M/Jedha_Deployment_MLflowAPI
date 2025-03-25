@@ -24,13 +24,13 @@ Les sources sont organisés de la manière suivante :
 
 1. Clone de ce github repository :
 ```
-git clone https://github.com/your-username/XXXX.git
+git clone https://github.com/your-username/Jedha_Deployment_MLflowAPI .git
 ```
 Attention à bien remplacer *your-username* par votre propre identifiant GitHub
 
 2. Rentrer dans le répertoire du projet :
 ```
-cd XXXX
+cd Jedha_Deployment_MLflowAPI 
 ```
 
 3. Créer un environnement virtuel et l'activer (optionnel mais recommandé) :
