@@ -1,0 +1,6 @@
+fastapi[standard]
+mlflow
+opencv-python-headless
+pandas
+boto3
+xgboost
