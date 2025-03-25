@@ -24,7 +24,7 @@ Les sources sont organisés de la manière suivante :
 
 1. Clone de ce github repository :
 ```
-git clone https://github.com/your-username/Jedha_Deployment_MLflowAPI .git
+git clone https://github.com/your-username/Jedha_Deployment_MLflowAPI.git
 ```
 Attention à bien remplacer *your-username* par votre propre identifiant GitHub
 
