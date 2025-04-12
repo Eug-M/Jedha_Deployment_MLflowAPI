@@ -22,9 +22,10 @@ def test_prediction():
     for col in dict_changes.keys():
         df = df.replace({col: dict_changes[col]})
     print(df)
+    #print('real target: ', df['rental_price_per_day'])
 
     values = []
-    for element in df.iloc[0,:].values.tolist():
+    for element in df.iloc[0,:].values.tolist():    #df.iloc[0,:-1]???
         if type(element) != str:
             values.append(element.item())
         else:

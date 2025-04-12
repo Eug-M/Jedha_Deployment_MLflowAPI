@@ -12,6 +12,7 @@ Les sources sont organisés de la manière suivante :
    - *src* : sources de l'API
  - *Streamlit_app* : image Docker, dépendances de l'application Streamlit, scripts d'exécution et documentation
    - *src* : sources de l'application
+ - *Videos_Images* : contient les vidéos et images pour la certification
 
 
 ## Environnement local
